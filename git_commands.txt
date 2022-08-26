@@ -1,0 +1,18 @@
+How to clone to GitHub
+- create repo and copy SSH link
+- open terminal and cd into folder that needs to be cloned
+- git clone [SSH link]
+- check status using:
+	- git remote show origin
+
+
+How to sync with GitHub
+- git status
+- git add .
+- git status
+- git commit -m "[Comment describing change]"
+- git push origin main
+- git log:
+	- git log --oneline -5 --author -debugdeem
+- Always branch off from main/master using
+	- git checkout -b feature/'nadeem'
