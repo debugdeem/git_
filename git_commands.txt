@@ -16,3 +16,14 @@ How to sync with GitHub
 	- git log --oneline -5 --author -debugdeem
 - Always branch off from main/master using
 	- git checkout -b feature/'nadeem'
+
+Sync with Github
+- git pull origin main
+
+Terminal commands
+- cd (navigate folders)
+- ls (list files)
+- mv file1 file2 destination/ (move files)
+- mkdir filename (create folder)
+- nano /path/to/file.txt (create the file, edit the text, and view it all with one command)
+- touch /path/to/file.txt (create the file without opening the editor)
