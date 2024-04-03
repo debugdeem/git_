@@ -21,7 +21,8 @@ Sync with Github
 - git pull origin main
 
 Terminal commands
-- cd (navigate folders)
+- cd (navigate folders, current folder)
+- cd .. (navigate folders, parent folder)
 - ls (list files)
 - mv file1 file2 destination/ (move files)
 - mkdir filename (create folder)
