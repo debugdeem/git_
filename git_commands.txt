@@ -16,6 +16,7 @@ How to sync with GitHub
 	- git log --oneline -5 --author -debugdeem
 - Always branch off from main/master using
 	- git checkout -b feature/'nadeem'
+- "q" in the terminal after logs to quit
 
 Sync with Github
 - git pull origin main
