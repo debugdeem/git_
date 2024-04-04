@@ -21,6 +21,13 @@ How to sync with GitHub
 Sync with Github
 - git pull origin main
 
+Fetch all changes from git up
+- git fetch origin
+
+Overwrite from online to local
+- git reset --hard origin/test
+
+
 Terminal commands
 - cd (navigate folders, current folder)
 - cd .. (navigate folders, parent folder)
